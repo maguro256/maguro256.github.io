@@ -1,0 +1,1 @@
+# maguro256.github.io
