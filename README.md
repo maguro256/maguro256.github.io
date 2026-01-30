@@ -17,6 +17,10 @@ Game Developer / Engineer (Unity, C#, C++)
 
 https://github.com/user-attachments/assets/8ad23400-f42c-4b1a-90bd-22cf54097ae1
 
+https://github.com/user-attachments/assets/5bf21371-9450-4efc-8f44-328c4d16eaa0
+
+https://github.com/user-attachments/assets/07a6b5d8-9560-4852-88e3-cab896f7ae06
+
 
 * **担当:** AR機能実装（Geospatial API）、DB連携、ゲーム一部
 * **技術:** Unity (C#), AR Foundation, Google Geospatial API
