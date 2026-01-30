@@ -4,6 +4,7 @@ Game Developer / Engineer (Unity, C#, C++)
 ## About Me
 * **学校:** 明石工業高等専門学校
 * **スキル:** C#, C++, Python, Rust, Unity, Unreal Engine 5
+* * [GitHub](https://github.com/maguro256)
 
 ---
 
@@ -11,10 +12,16 @@ Game Developer / Engineer (Unity, C#, C++)
 
 ### 1. pick&see
 **【高専プロコン 敢闘賞受賞】**
-位置情報とARとまちづくりを組み合わせた環境問題に取り組むためのゲーム。
+位置情報とAR、そして「まちづくり」を組み合わせた環境問題に取り組むためのゲーム。
+
+
+https://github.com/user-attachments/assets/8ad23400-f42c-4b1a-90bd-22cf54097ae1
+
+
 * **担当:** AR機能実装（Geospatial API）、DB連携、ゲーム一部
 * **技術:** Unity (C#), AR Foundation, Google Geospatial API
 * **アピール:** Geospatial APIを用いた高精度な位置合わせと、非同期通信によるオブジェクト共有機能の実装。
+* [github](https://github.com/maguro256/procon)
 
 ### 2. kosen CardGame 
 学園祭展示用のデジタルカードゲーム。
@@ -47,6 +54,3 @@ Unityで制作した横スクロールアクション。しょぼんのアクシ
 * **技術:** Unreal Engine
 * **アピール:** すっきりしたBPの作成。手探りでの設計でしたが動作するものになった。
 ---
-
-## 🔗 Links
-* [GitHub](https://github.com/maguro256)
