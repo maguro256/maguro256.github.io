@@ -17,11 +17,18 @@ Game Developer / Engineer (Unity, C#, C++)
 位置情報とAR、そして「まちづくり」を組み合わせた環境問題に取り組むためのゲーム。
 
 
-https://github.com/user-attachments/assets/8ad23400-f42c-4b1a-90bd-22cf54097ae1
-
-https://github.com/user-attachments/assets/5bf21371-9450-4efc-8f44-328c4d16eaa0
-
-https://github.com/user-attachments/assets/07a6b5d8-9560-4852-88e3-cab896f7ae06
+<table>
+  <tr>
+    <td width="33%">プレイ映像1</td>
+    <td width="33%">プレイ映像2</td>
+    <td width="33%">プレイ映像3</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/user-attachments/assets/8ad23400-f42c-4b1a-90bd-22cf54097ae1">Video Link 1</a><br><img src="https://github.com/user-attachments/assets/8ad23400-f42c-4b1a-90bd-22cf54097ae1" alt="video thumbnail" width="100%"></td>
+    <td><a href="https://github.com/user-attachments/assets/5bf21371-9450-4efc-8f44-328c4d16eaa0">Video Link 2</a><br><img src="https://github.com/user-attachments/assets/5bf21371-9450-4efc-8f44-328c4d16eaa0" alt="video thumbnail" width="100%"></td>
+    <td><a href="https://github.com/user-attachments/assets/07a6b5d8-9560-4852-88e3-cab896f7ae06">Video Link 3</a><br><img src="https://github.com/user-attachments/assets/07a6b5d8-9560-4852-88e3-cab896f7ae06" alt="video thumbnail" width="100%"></td>
+  </tr>
+</table>
 
 
 * **担当:** AR機能実装（Geospatial API）、DB連携、ゲーム一部
