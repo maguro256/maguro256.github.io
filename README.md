@@ -16,19 +16,7 @@ Game Developer / Engineer (Unity, C#, C++)
 **【高専プロコン 敢闘賞受賞】**
 位置情報とAR、そして「まちづくり」を組み合わせた環境問題に取り組むためのゲーム。
 
-
-<table>
-  <tr>
-    <td width="33%">プレイ映像1</td>
-    <td width="33%">プレイ映像2</td>
-    <td width="33%">プレイ映像3</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/user-attachments/assets/8ad23400-f42c-4b1a-90bd-22cf54097ae1">Video Link 1</a><br><img src="https://github.com/user-attachments/assets/8ad23400-f42c-4b1a-90bd-22cf54097ae1" alt="video thumbnail" width="100%"></td>
-    <td><a href="https://github.com/user-attachments/assets/5bf21371-9450-4efc-8f44-328c4d16eaa0">Video Link 2</a><br><img src="https://github.com/user-attachments/assets/5bf21371-9450-4efc-8f44-328c4d16eaa0" alt="video thumbnail" width="100%"></td>
-    <td><a href="https://github.com/user-attachments/assets/07a6b5d8-9560-4852-88e3-cab896f7ae06">Video Link 3</a><br><img src="https://github.com/user-attachments/assets/07a6b5d8-9560-4852-88e3-cab896f7ae06" alt="video thumbnail" width="100%"></td>
-  </tr>
-</table>
+<img src="https://github.com/user-attachments/assets/7246a9a2-dff2-42d6-b2e7-55429bcb2b2b" width="32%">　<img src="【ここにGIF画像2のURLを入れる】" width="32%">　<img src="【ここにGIF画像3のURLを入れる】" width="32%">
 
 
 * **担当:** AR機能実装（Geospatial API）、DB連携、ゲーム一部
@@ -38,17 +26,28 @@ Game Developer / Engineer (Unity, C#, C++)
 
 ### 2. kosen CardGame 
 学園祭展示用のデジタルカードゲーム。
+
+<img src="" width="32%">　<img src="https://github.com/user-attachments/assets/147b6ef5-096f-4a09-95a3-a37e3b585887" width="32%">　<img src="https://github.com/user-attachments/assets/847919c5-46e0-46af-ba4c-8cd4988f78f2" width="32%">
+
+
 * **担当:** ゲームロジック、データ管理システム、ゲーム全般
 * **技術:** Unity (C#)
 * **アピール:** 企画班のバランス調整に対応できるよう仕様変更に強い疎結合な設計を実現。
 
 ### 3. しょぼんのアクション kosen ver
 Unityで制作した横スクロールアクション。しょぼんのアクションのオマージュ作品です。初めて製作したゲームとなります。
+
+<img src="https://github.com/user-attachments/assets/2308ac9d-4ff9-42f4-a250-880b9fdafa59" width="32%">　<img src="https://github.com/user-attachments/assets/944b880f-f907-4031-9cb7-82416f3263b9" width="32%">
+
+
 * **技術:** Unity (C#)
 * **アピール:** ステージ作成をゲームメーカーのように行える設計。
 
 ### 4. kosen lovers
 学園祭展示用の恋愛シミュレーション。
+
+<img src="https://github.com/user-attachments/assets/15a61ebe-ae99-4417-b304-6a997f47ceaf" width="32%">　<img src="https://github.com/user-attachments/assets/4541b60c-f685-4b2b-ab7b-59b5880dfbc2" width="32%">
+
 * **技術:** Unity (C#)
 * **アピール:** 会話システムの実装と、フラグ管理システムの構築。プランナーがシナリオを追加しやすい構造に設計。
 
